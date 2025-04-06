@@ -1,0 +1,31 @@
+total_return,sharpe_ratio,max_drawdown,win_rate,total_trades,exposure_time,avg_trade_duration,median_trade_duration,max_trade_duration,min_trade_duration,profit_factor,strategy,fast_window,slow_window
+"BNB/BTC   -0.764124
+ETH/BTC   -0.811973
+LTC/BTC   -0.787768
+Name: total_return, dtype: float64","BNB/BTC   -44.201253
+ETH/BTC   -52.064501
+LTC/BTC   -24.047234
+Name: sharpe_ratio, dtype: float64","BNB/BTC   -0.764124
+ETH/BTC   -0.813155
+LTC/BTC   -0.793435
+Name: max_drawdown, dtype: float64",0.14987714987714987,1628,0.011062549772227192,36.00859950859951,28.0,255.0,1.0,0.29143277912017257,SMA Crossover,10,50
+"BNB/BTC   -0.361776
+ETH/BTC   -0.399981
+LTC/BTC   -0.166859
+Name: total_return, dtype: float64","BNB/BTC   -12.430017
+ETH/BTC   -10.627203
+LTC/BTC    -2.540206
+Name: sharpe_ratio, dtype: float64","BNB/BTC   -0.363711
+ETH/BTC   -0.403762
+LTC/BTC   -0.279548
+Name: max_drawdown, dtype: float64",0.4293628808864266,361,0.2227223761157279,160.3601108033241,113.0,979.0,6.0,0.411471643213115,RSI with Bollinger Bands,14,20,2.0,30.0,70.0
+"BNB/BTC    0.016223
+ETH/BTC   -0.062562
+LTC/BTC   -0.148566
+Name: total_return, dtype: float64","BNB/BTC    0.708445
+ETH/BTC   -1.183638
+LTC/BTC   -2.025402
+Name: sharpe_ratio, dtype: float64","BNB/BTC   -0.095819
+ETH/BTC   -0.181631
+LTC/BTC   -0.264249
+Name: max_drawdown, dtype: float64",0.5394736842105263,76,4.448675496688741,671.75,213.5,7541.0,6.0,0.7476635006302969,VWAP Reversion,50,0.01
